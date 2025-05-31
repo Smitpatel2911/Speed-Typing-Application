@@ -1,0 +1,2 @@
+class NotSameError(Exception):
+    pass
